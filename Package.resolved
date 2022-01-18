@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ErrorMessage",
+        "repositoryURL": "https://github.com/jeremyabannister/ErrorMessage",
+        "state": {
+          "branch": null,
+          "revision": "1468d23676022016c33870feb501b29939ff5722",
+          "version": "0.1.1"
+        }
+      },
+      {
+        "package": "ExpressionErgonomics",
+        "repositoryURL": "https://github.com/jeremyabannister/ExpressionErgonomics",
+        "state": {
+          "branch": null,
+          "revision": "07cb1cceee8ec7f6d871855bcda6d6ab9b4043c8",
+          "version": "0.2.0"
+        }
+      },
+      {
+        "package": "ProperValueType",
+        "repositoryURL": "https://github.com/jeremyabannister/ProperValueType",
+        "state": {
+          "branch": null,
+          "revision": "fff4702852d0658676da1896c93625e7ff4b0f7d",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "Testable",
+        "repositoryURL": "https://github.com/jeremyabannister/Testable",
+        "state": {
+          "branch": null,
+          "revision": "5eb6bfd344bbf0fea93cf59027a13dcb52825a47",
+          "version": "0.1.2"
+        }
+      },
+      {
+        "package": "XCTestToolkit",
+        "repositoryURL": "https://github.com/jeremyabannister/XCTestToolkit",
+        "state": {
+          "branch": null,
+          "revision": "12e9e9cb6ae61489a5e872b7e086db9b03f2ea2e",
+          "version": "0.1.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

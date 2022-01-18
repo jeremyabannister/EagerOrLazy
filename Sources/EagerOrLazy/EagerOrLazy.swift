@@ -1,6 +1,19 @@
-public struct EagerOrLazy {
-    public private(set) var text = "Hello, World!"
+//
+//  EagerOrLazy.swift
+//  
+//
+//  Created by Jeremy Bannister on 1/18/22.
+//
 
-    public init() {
-    }
+///
+import ProperValueType
+
+///
+public enum EagerOrLazy: ProperValueType {
+    
+    ///
+    case eager
+    
+    ///
+    case lazy
 }
